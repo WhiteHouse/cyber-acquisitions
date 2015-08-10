@@ -29,7 +29,7 @@ Contributions can be made, primarily in two ways:
 
 ## Running Locally
 
-Project Open Data runs on GitHub pages and automatically regenerates as a static site after every change. To duplicate this process and preview changes locally:
+Cybersecurity Protections in Federal Acquisitions runs on GitHub pages and automatically regenerates as a static site after every change. To duplicate this process and preview changes locally:
 
 1. `git clone git@github.com:WhiteHouse/cyber-acquisitions.git && cd cyber-acquisitions`
 2. `script/bootstrap`
