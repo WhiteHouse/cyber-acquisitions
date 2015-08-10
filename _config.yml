@@ -1,0 +1,37 @@
+# settings from whitehouse.github.io/fitara
+
+#document settings
+title: Improving Cybersecurity Protections in Federal Acquisitions Public Comment Space
+url: https://management.cio.gov
+
+#global settings, no need to change these
+root_url: https://management.cio.gov
+production_hostname: management.cio.gov
+org_name: whitehouse
+repo_name: fitara
+branch: gh-pages
+
+# default build settings for running locally, no need to edit
+pymgemnts: true
+exclude: ["script", "vendor", "Gemfile", "Gemfile.lock", "config.ru", "Procfile", "Rakefile", "readme.md"]
+markdown: kramdown
+relative_permalinks: false
+
+gems:
+  - jekyll-redirect-from
+
+kramdown:
+  toc_levels: "1,2"
+
+# original settings
+
+permalink: pretty
+# markdown: rdiscount
+highlighter: pygments
+# url: https://management.cio.gov
+
+collections:
+  - guidanceSections
+
+sass:
+    sass_dir: assets/_sass
