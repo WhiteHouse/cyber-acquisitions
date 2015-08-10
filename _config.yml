@@ -2,11 +2,11 @@
 
 #document settings
 title: Improving Cybersecurity Protections in Federal Acquisitions Public Comment Space
-url: https://whitehouse.github.io/cyber-acquisitions
+url: https://policy.cio.gov
 
 #global settings, no need to change these
-root_url: https://whitehouse.github.io/cyber-acquisitions
-production_hostname: whitehouse.github.io
+root_url: https://policy.cio.gov
+production_hostname: policy.cio.gov
 org_name: whitehouse
 repo_name: cyber-acquisitions
 branch: gh-pages
