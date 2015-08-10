@@ -1,6 +1,6 @@
 # Contributing to Cybersecurity Protections in Federal Acquisitions 
 
-*By contributing to this project, you dedicate your work to the public domain and relinquish any copyright claims under the terms of the [CC0 Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/). See the [LICENSE](https://github.com/WhiteHouse/cyber-acquisitions/blob/master/LICENSE.md) for additional information.*
+*By contributing to this project, you dedicate your work to the public domain and relinquish any copyright claims under the terms of the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). See the [LICENSE](https://github.com/WhiteHouse/cyber-acquisitions/blob/master/LICENSE.md) for additional information.*
 
 ## How to Contribute
 
@@ -20,7 +20,7 @@ Contributions can be made, primarily in two ways:
 
 ### Advanced
 
-1. Configure git by using this [basic tutorial](https://help.github.com/articles/set-up-git) or by downloading the [GitHub for Mac](http://mac.github.com/) (or [GitHub for Windows](http://windows.github.com/)) and optionally [Mou](http://mouapp.com/).
+1. Configure git by using this [basic tutorial](https://help.github.com/articles/set-up-git) or by downloading the [GitHub for Mac](https://mac.github.com/) (or [GitHub for Windows](https://windows.github.com/)) and optionally [Mou](https://mouapp.com/).
 2. [Fork](https://help.github.com/articles/fork-a-repo) the project
 3. Make changes as you would normally using the tools installed in step #1.
 4. Push the changes back to your fork
@@ -35,9 +35,9 @@ Project Open Data runs on GitHub pages and automatically regenerates as a static
 2. `script/bootstrap`
 3. (Make your changes)
 4. `script/server`
-5. Open [localhost:4000](http://localhost:4000) in your favorite web browser
+5. Open [localhost:4000](https://localhost:4000) in your favorite web browser
 
-*Note:* You'll need [Ruby](http://www.ruby-lang.org/) and the [Bundler package manager](http://gembundler.com/).
+*Note:* You'll need [Ruby](https://www.ruby-lang.org/) and the [Bundler package manager](https://gembundler.com/).
 
 ## Privacy
 
