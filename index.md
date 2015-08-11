@@ -7,6 +7,7 @@ title: Cyber Contracting Guidance
 ---
 
 ## Improving Cybersecurity Protections in Federal Acquisitions 
+### [Edit Guidance](https://github.com/WhiteHouse/cyber-acquisitions/edit/gh-pages/index.md "Link to the Pull Requests Section of GitHub") | [Discuss Guidance](https://github.com/WhiteHouse/cyber-acquisitions/issues "Link to the Issues Section of GitHub")
 
 ### Introduction
 In early 2015 the Federal Chief Information Officers (CIO) Council and the Chief Acquisition Officers (CAO) Council created a working group to review current contract clauses and information technology (IT) acquisition policies and practices around contractor and subcontractor information system security. This interagency group was comprised of senior experts in acquisition, security, and contract management and their recommendations are included in this guidance to Federal agencies on implementing strengthened cybersecurity protections in Federal acquisitions.
