@@ -7,6 +7,7 @@ title: Cyber Contracting Guidance
 ---
 
 ## Improving Cybersecurity Protections in Federal Acquisitions 
+
 ### [Edit Guidance](https://github.com/WhiteHouse/cyber-acquisitions/edit/gh-pages/index.md "Link to the Pull Requests Section of GitHub") | [Discuss Guidance](https://github.com/WhiteHouse/cyber-acquisitions/issues "Link to the Issues Section of GitHub")
 
 ### Introduction
