@@ -23,10 +23,11 @@ _[Return to the Top]()_
 
 The public feedback period will be 30 days, and comments will be reviewed using an iterative approach. Similar to the best practices for agile software development promoted in our existing guidance and strategy documents, we believe an iterative learning approach will allow us to refine our perspective on whether any specific input is needed to help address issues raised early in the process. To that end, we strongly encourage your substantive feedback and suggestions on this proposed guidance by **September 10, 2015**.
 
-You may provide feedback in two ways:
+You may provide feedback in three ways:
 
 1.	Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and [join in on discussions](https://github.com/WhiteHouse/cyber-acquisitions/issues "Link to the Issues Section of GitHub") in existing issues, or start a new conversation by opening a [new issue](https://github.com/WhiteHouse/cyber-acquisitions/issues/new).
 2.	Direct changes and line edits to the content may be submitted through a ["pull request"](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests") by clicking ["Edit Guidance."](https://github.com/WhiteHouse/cyber-acquisitions/edit/gh-pages/index.md "Link to the Pull Requests Section of GitHub") You dont need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found [here](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests"). Open pull request for the proposed guidance can be found [here](https://github.com/WhiteHouse/cyber-acquisitions/pulls).
+3.	Send your content suggestions or proposed revisions to the OMB Office of the Federal Chief Information Officer via email to OFCIO@omb.eop.gov. 
 
 _[Return to the Top]()_
 
