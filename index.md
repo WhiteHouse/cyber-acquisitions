@@ -6,28 +6,25 @@ filename: index.md
 title: Cyber Contracting Guidance
 ---
 
-## Improving Cybersecurity Protections in Federal Acquisitions
+## Improving Cybersecurity Protections in Federal Acquisitions - Public Feedback Period Now Closed
+
+The public feedback period is now closed. OMB is currently reviewing comments received and incorporating public feedback, as appropriate, to develop final guidance.
 
 ### Introduction
 In early 2015 the Federal Chief Information Officers (CIO) Council and the Chief Acquisition Officers (CAO) Council created a working group to review current contract clauses and information technology (IT) acquisition policies and practices around contractor and subcontractor information system security. This interagency group was comprised of senior experts in acquisition, security, and contract management and their recommendations are included in this guidance to Federal agencies on implementing strengthened cybersecurity protections in Federal acquisitions.
 
-We are releasing this proposed guidance for public feedback on the open source platform GitHub to signal transparency in Federal policymaking and to reach a broad audience of stakeholders to assist in further enhancing this guidance. Similar public feedback processes for other OMB initiatives have been very successful in engaging and obtaining the views of the technology and security communities. OMB’s goal in this period of public feedback is to allow for a better understanding of the perspectives of the broader community and to identify areas for improvement to make this guidance even more meaningful and effective.
+We released this proposed guidance for public feedback on the open source platform GitHub to signal transparency in Federal policymaking and to reach a broad audience of stakeholders to assist in further enhancing this guidance. Similar public feedback processes for other OMB initiatives have been very successful in engaging and obtaining the views of the technology and security communities. OMB’s goal in this period of public feedback was to allow for a better understanding of the perspectives of the broader community and to identify areas for improvement to make this guidance even more meaningful and effective.
 
 The intent of the proposed guidance is to take major steps toward implementing strengthened cybersecurity protections in Federal acquisitions and therefore mitigating the risk of potential incidents in the future. This proposed guidance also describes steps that agencies should take to perform better business due diligence to support risk management throughout the entire lifespan of an outsourced capability.
 
-If you have ideas on how to improve the proposed guidance, you may make line edit suggestions or initiate or contribute to discussions about the content of the guidance. OMB plans to review and incorporate public feedback, as appropriate, to develop final guidance.
+
 
 _[Return to the Top]()_
 
 ### Timeframe and Instructions for Public Comment
 
-The public feedback period will be 30 days, and comments will be reviewed using an iterative approach. Similar to the best practices for agile software development promoted in our existing guidance and strategy documents, we believe an iterative learning approach will allow us to refine our perspective on whether any specific input is needed to help address issues raised early in the process. To that end, we strongly encourage your substantive feedback and suggestions on this proposed guidance by **September 10, 2015**.
+The public feedback period was 30 days and closed on **September 10, 2015**.
 
-You may provide feedback in three ways:
-
-1.	Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and [join in on discussions](https://github.com/WhiteHouse/cyber-acquisitions/issues "Link to the Issues Section of GitHub") in existing issues, or start a new conversation by opening a [new issue](https://github.com/WhiteHouse/cyber-acquisitions/issues/new).
-2.	Direct changes and line edits to the content may be submitted through a ["pull request"](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests") by clicking ["Edit Guidance."](https://github.com/WhiteHouse/cyber-acquisitions/edit/gh-pages/index.md "Link to the Pull Requests Section of GitHub") You dont need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found [here](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests"). Open pull request for the proposed guidance can be found [here](https://github.com/WhiteHouse/cyber-acquisitions/pulls).
-3.	Send your content suggestions or proposed revisions to the OMB Office of the Federal Chief Information Officer via email to OFCIO@omb.eop.gov. 
 
 _[Return to the Top]()_
 
@@ -69,7 +66,7 @@ Federal law restricts “foreign” participation in Federal procurement in seve
  * The agency may elect to perform information security continuous monitoring and IT security scanning of contractor systems.
 
 8. **How can people submit feedback and when is the deadline?**
-Feedback can be submitted by visiting policy.cio.gov and following the posted instructions. We are accepting comments for 30 days.
+The public feedback period closed on September 10, 2015. 
 
 9. **When will the final policy be released?**
 Following the public feedback period, OMB will analyze all submitted feedback and revise the policy as necessary. The final guidance will be released Fall 2015.
